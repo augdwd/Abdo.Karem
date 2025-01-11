@@ -30,7 +30,7 @@ form{
     margin-bottom: 15px;
 }
 .textview{
-   max-width: 100%;
+   width: 100%;
     height: 90px;
     pointer-events: none;  /*inputهذه الخصيه لجعل المستخدم ميقدرش يضغط علي */
     font-size: 2rem;
